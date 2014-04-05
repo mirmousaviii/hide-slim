@@ -1,0 +1,14 @@
+# Flat theme for slim
+# Mustafa Oezkan, destruct.c at gmx dot net
+
+# Messages 
+msg_color               #FF0000
+msg_font                Verdana:size=16:bold
+
+# Screen background style. Valid values: stretch, tile
+background_color        #000000
+
+
+# Input controls
+input_fgcolor           #000000
+
